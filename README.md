@@ -2,7 +2,7 @@
 
 **Materia:** Comunicación en Ingeniería  
 **Equipo:** Equipo 4
-**Fecha:** 17 de febrero de 2026  
+**Fecha:** 17 de febrero de 2026
 **Programa elegido:** Calculadora web de signo zodiacal chino (basada en año de nacimiento)
 
 ## Introducción
