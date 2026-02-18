@@ -24,4 +24,4 @@ Fue desarrollada como ejemplo para demostrar HTML, CSS y JavaScript básico.
 ## Instalación y uso
 1. Clonar el repositorio:  
    ```bash
-   git clone [[URL-DE-TU-REPO](https://github.com/MrMongy01/SignoZodiacalChino.github.io)]
+   git clone [(https://github.com/MrMongy01/SignoZodiacalChino.github.io)]
